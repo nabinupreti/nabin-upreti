@@ -328,12 +328,16 @@
       /> 
 </p> -->
 <!-- end of lang and tools -->
-<br />
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinupreti&layout=compact&theme=vision-friendly-dark)
+
+<br>
 
 ### :fire: My Stats :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinupreti&layout=compact&theme=vision-friendly-dark)
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=nabinupreti&show_icons=true&theme=codeSTACKr" alt="Nabin Upreti" /> 
-<br>
+
+<be>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabinupreti&theme=dark&hide_border=true)](https://git.io/streak-stats)
