@@ -29,15 +29,15 @@
 </div> -->
 
 <!-- About me section -->
-## A passionate Software Developer and Computer Science & IT Undergraduate.
+## A passionate Software Developer and IT Undergraduate.
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software development and digital marketing**
 
 - 👯 I’m looking to collaborate on **Web development**
 
 - 💬 Ask me about **Java, HTML, CSS, Javascript**
 
-- 📫 How to reach me **nupreti00@gmail.com**
+- 📫 How to reach me **contact@nabinupreti.com.np**
 <br/>
 
 <!-- Languages and Tools section -->
