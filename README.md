@@ -330,18 +330,11 @@
 </p>
 <!-- end of lang and tools -->
 <br />
-<br />
-<!-- ![Snake animation](https://github.com/sthsuyash/sthsuyash/blob/main/ASSETS/snake.svg) -->
 
 ### :fire: My Stats :
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&layout=compact&theme=vision-friendly-dark)] (https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sthsuyash&show_icons=true&theme=codeSTACKr" alt="Suyash Shrestha" /> -->
-
-<p align="center">
-  <img
-    src="https://github.com/sthsuyash/sthsuyash/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Github Stats Summary"
-  />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinupreti&layout=compact&theme=vision-friendly-dark)
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=nabinupreti&show_icons=true&theme=codeSTACKr" alt="Nabin Upreti" /> 
+<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabinupreti&theme=dark&hide_border=true)](https://git.io/streak-stats)
