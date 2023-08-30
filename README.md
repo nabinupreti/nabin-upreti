@@ -337,8 +337,8 @@
 
 ### :fire: My Stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabinupreti&show_icons=true&theme=codeSTACKr" alt="Nabin Upreti" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=nabinupreti&show_icons=true&theme=codeSTACKr" alt="Nabin Upreti"/> 
 
-<be>
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabinupreti&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabinupreti&theme=dark&hide_border=true)]
