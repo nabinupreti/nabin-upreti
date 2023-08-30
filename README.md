@@ -275,7 +275,6 @@
     alt="neovim"
   />
 </p> -->
- -->
 
 <!-- tools section -->
 <!--
@@ -314,8 +313,8 @@
   <!-- <img
         src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
         alt="FireBase"
-      /> -->
-  <!-- <img
+      /> 
+   <img
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
         alt="Heroku"
       />
@@ -326,8 +325,8 @@
       <img
         src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
         alt="Amazon AWS"
-      /> -->
-</p>
+      /> 
+</p> -->
 <!-- end of lang and tools -->
 <br />
 
