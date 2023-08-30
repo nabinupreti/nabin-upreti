@@ -275,7 +275,6 @@
     alt="neovim"
   />
 </p> -->
- -->
 
 <!-- tools section -->
 <!--
@@ -314,8 +313,8 @@
   <!-- <img
         src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
         alt="FireBase"
-      /> -->
-  <!-- <img
+      /> 
+   <img
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
         alt="Heroku"
       />
@@ -326,8 +325,8 @@
       <img
         src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
         alt="Amazon AWS"
-      /> -->
-</p>
+      /> 
+</p> -->
 <!-- end of lang and tools -->
 <br />
 <br />
@@ -339,9 +338,12 @@
 
 <p align="center">
   <img
-    src="https://github.com/sthsuyash/sthsuyash/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src=""
     alt="Github Stats Summary"
   />
 </p>
+<br>
+
+### :fire: My Streks Status :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nabinupreti&theme=dark&hide_border=true)](https://git.io/streak-stats)
