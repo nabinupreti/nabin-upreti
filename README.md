@@ -61,10 +61,10 @@
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
     alt="Java"
   />
-  <!-- <img
+  <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
     alt="Php"
-  /> -->
+  /> 
   <!-- <img
         src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
         alt="C#"
@@ -91,17 +91,17 @@
   /> -->
 </p>
 
-<!-- frontend framworks section -->
-<!-- <p align="center">
-  <img
+<!-- frontend frameworks section -->
+<p align="center">
+ <!-- <img
     src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
     alt="React"
-  />
+  />--> 
   <img
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="Bootstrap"
   />
-<img
+<!--<img
   src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
   alt="Tailwind"
 />
@@ -113,8 +113,8 @@
   <!-- <img
     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     alt="SASS"
-  /> 
-</p> --> 
+  /> --> 
+</p> 
 
 <!-- backend frameworks section
 <p align="center">
@@ -158,13 +158,13 @@
   />
 </p> --> 
 
-<!-- database section
+ <!--database section-->
 <p align="center">
   <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
-  <img
+  <!-- <img
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
   />
@@ -175,8 +175,8 @@
   <img
     src="https://img.shields.io/badge/Microsoft%20SQL%20Server-yellow?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
     alt="SQL-SERVER"
-  />
-</p> -->
+  />-->
+</p> 
 
 <!-- AI/ML tools
 <p align="center">
@@ -278,26 +278,26 @@
 </p> -->
 
 <!-- tools section -->
-<!--
+
 <p align="center">
   <img
     src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"
     alt="VS Code"
   />
-  <img
+ <img
     src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
     alt="Microsoft Office"
   />
-  <img
+ <!--  <img
     src="https://img.shields.io/badge/IntelliJ%20IDEA-E67976.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white"
     alt="IntelliJ IDEA"
   />
   <img
     src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
     alt="PyCharm"
-  />
+  />-->
 </p>
--->
+
 
 <!-- hosting/SaaS  -->
 <!--
