@@ -93,10 +93,10 @@
 
 <!-- frontend frameworks section -->
 <p align="center">
- <!-- <img
+  <img
     src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
     alt="React"
-  />--> 
+  /> 
   <img
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="Bootstrap"
