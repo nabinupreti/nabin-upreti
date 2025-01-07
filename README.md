@@ -35,7 +35,7 @@
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript**
+<!-- - 💬 Ask me about **Java, HTML, CSS, Javascript** -->
 
 - 📫 How to reach me **contact@nabinupreti.com.np**
 <br/>
@@ -178,7 +178,7 @@
   />-->
 </p> 
 
-<!-- AI/ML tools
+<!-- AI/ML tools -->
 <p align="center">
   <img
     src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
